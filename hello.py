@@ -6,9 +6,6 @@ print("test1, goodbye")
 print("test2, Hi!!")
 
 print("Hello, Stacy")
-<<<<<<< HEAD
+print("task2")
 print("task8")
 print("task9")
-=======
-print("task2")
->>>>>>> 72cb5d6 (task2 프린팅 추가)
